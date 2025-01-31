@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01 - pengenalan collection/01 - pengenalan collection.iml" filepath="$PROJECT_DIR$/01 - pengenalan collection/01 - pengenalan collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 - iterabel dan iterator interface/02 - iterabel dan iterator interface.iml" filepath="$PROJECT_DIR$/02 - iterabel dan iterator interface/02 - iterabel dan iterator interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - collection interface/03 - collection interface.iml" filepath="$PROJECT_DIR$/03 - collection interface/03 - collection interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - list interface/04 - list interface.iml" filepath="$PROJECT_DIR$/04 - list interface/04 - list interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - immutable list/05 - immutable list.iml" filepath="$PROJECT_DIR$/05 - immutable list/05 - immutable list.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection.iml" filepath="$PROJECT_DIR$/Java-Collection.iml" />
     </modules>
   </component>
