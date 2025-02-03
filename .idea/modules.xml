@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/03 - collection interface/03 - collection interface.iml" filepath="$PROJECT_DIR$/03 - collection interface/03 - collection interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - list interface/04 - list interface.iml" filepath="$PROJECT_DIR$/04 - list interface/04 - list interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/05 - immutable list/05 - immutable list.iml" filepath="$PROJECT_DIR$/05 - immutable list/05 - immutable list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - set interface/06 - set interface.iml" filepath="$PROJECT_DIR$/06 - set interface/06 - set interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - immutable set/07 - immutable set.iml" filepath="$PROJECT_DIR$/07 - immutable set/07 - immutable set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - SortedSet Interface/08 - SortedSet Interface.iml" filepath="$PROJECT_DIR$/08 - SortedSet Interface/08 - SortedSet Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection.iml" filepath="$PROJECT_DIR$/Java-Collection.iml" />
     </modules>
   </component>
