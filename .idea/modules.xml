@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/06 - set interface/06 - set interface.iml" filepath="$PROJECT_DIR$/06 - set interface/06 - set interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/07 - immutable set/07 - immutable set.iml" filepath="$PROJECT_DIR$/07 - immutable set/07 - immutable set.iml" />
       <module fileurl="file://$PROJECT_DIR$/08 - SortedSet Interface/08 - SortedSet Interface.iml" filepath="$PROJECT_DIR$/08 - SortedSet Interface/08 - SortedSet Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - NavigableSet interface/09 - NavigableSet interface.iml" filepath="$PROJECT_DIR$/09 - NavigableSet interface/09 - NavigableSet interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - queue interface/10 - queue interface.iml" filepath="$PROJECT_DIR$/10 - queue interface/10 - queue interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - deque interface/11 - deque interface.iml" filepath="$PROJECT_DIR$/11 - deque interface/11 - deque interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection.iml" filepath="$PROJECT_DIR$/Java-Collection.iml" />
     </modules>
   </component>
